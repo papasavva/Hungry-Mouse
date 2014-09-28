@@ -29,10 +29,15 @@ There are also some other mice that hold detonating bombs.
 Their purpose is to kill the main character, hungry mouse by killing
 themselves in the process.
 
+Screenshots
+-------------
+
 *The main menu Screen*
+
 ![enter image description here](http://i.imgur.com/EhYfCxy.png?1)
 
 *Game play screen*
+
 ![enter image description here](http://i.imgur.com/CNhFXHn.png?1)
 
 Usage
